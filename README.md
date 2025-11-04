@@ -84,11 +84,10 @@ To build the slides locally:
    cd Financial-Inclusion-among-Young-People
 
 2. Compile the LaTeX file using pdflatex or latexmk:
+   ```bash
+   pdflatex slides.tex      OR    latexmk -pdf slides.tex
 
-  pdflatex slides.tex      OR    latexmk -pdf slides.tex
-
-
-3. The compiled presentation will be saved as slides.pdf.
+3. The compiled presentation will be saved as `slides.pdf`.
 
 ---
 
