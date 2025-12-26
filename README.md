@@ -8,7 +8,7 @@ This repository provides a complete project package for analyzing financial incl
 - The raw **Python scripts** used for data analysis and visualization. 
 
 ---
-## Demo of the Financial Inclusion app 
+## 🎥 Demo of the Financial Inclusion app 
 
 ![Demo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
