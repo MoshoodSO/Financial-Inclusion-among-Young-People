@@ -93,4 +93,4 @@ To build the slides locally:
 
 ## 🙌 Credits
 
-Developed by [Shoyombo Moshood O.](https://linkedin.com/in/shoyombo-moshood-582003126/) as a project work for Data Analytics for Business course.
+Developed by [Shoyombo Moshood](https://linkedin.com/in/shoyombo-moshood-582003126/) as a project work for Data Analytics for Business course.
