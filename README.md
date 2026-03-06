@@ -65,7 +65,7 @@ Financial-Inclusion-among-Young-People/
       ├── public/             – Static assets (images, icons, etc.).
       ├── scripts/            – Project scripts (e.g., data scripts, deployment).
       ├── styles/             – Global or component-specific styling.
-      ├── Texfile/            – Tex file and pdf for presentation.
+      ├── Texfile/            – Tex file, pdf for presentation and its images.
       ├── README.md           – Project overview and help instructions.
       ├── components.json     – Component metadata/configuration.
       ├── next.config.mjs     – Next.js configuration.
