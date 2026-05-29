@@ -19,7 +19,7 @@ This repository contains:
 
 ---
 ## 📂 Repository Contents
-- `data.csv` - Data collected from EFInA
+- `data.csv` - Data collected from Enhancing Financial Innovation and Access (EFInA Access).
 - `slides.tex` – Main LaTeX source file for the presentation
 - `slides.pdf` – Compiled presentation
 - `README.md` – Documentation for the repository 
